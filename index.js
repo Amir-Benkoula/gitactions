@@ -1,1 +1,3 @@
-console.log('Hello World');
+export function test(n){
+    return n*n
+}
